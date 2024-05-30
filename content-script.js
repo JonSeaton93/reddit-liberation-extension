@@ -37,7 +37,7 @@ chrome.storage.sync.get(['userData'], function(result) {
                 if (pathName.toLowerCase().includes("/r/" + element.toLowerCase()))
                 {
                     //document.getElementsByTagName('body')[0].innerHTML = "<k>STOP PROCRASTINATING ON REDDIT</k> <p>You may only go to reddit comment pages</p> <p>Extension built by <a style=\"color:blue\" href=\"https://henryz.dev/\">Henry Zhang</a></p>";
-                    window.location.href = "https://hz757.github.io/PortfolioWebsite/RedditLiberationRedirect.html";
+                    window.location.href = "https://www.google.com";
                 }
             })
         }
